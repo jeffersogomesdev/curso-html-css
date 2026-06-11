@@ -8,7 +8,6 @@ Este repositório contém os exercícios, desafios e projetos desenvolvidos dura
 
 - HTML5
 - CSS3
-- vai embora
 - GitHub
 
 ## Objetivo
